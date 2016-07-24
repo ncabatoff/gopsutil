@@ -11,7 +11,7 @@ import (
 
 	"github.com/StackExchange/wmi"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/ncabatoff/gopsutil/internal/common"
 	process "github.com/shirou/gopsutil/process"
 )
 

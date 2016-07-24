@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/shirou/gopsutil/cpu"
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/ncabatoff/gopsutil/internal/common"
 	"github.com/shirou/gopsutil/mem"
 )
 

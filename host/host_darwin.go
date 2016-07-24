@@ -14,7 +14,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/ncabatoff/gopsutil/internal/common"
 	"github.com/shirou/gopsutil/process"
 )
 

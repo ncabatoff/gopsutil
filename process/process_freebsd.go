@@ -9,7 +9,7 @@ import (
 	"syscall"
 
 	cpu "github.com/shirou/gopsutil/cpu"
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/ncabatoff/gopsutil/internal/common"
 	net "github.com/shirou/gopsutil/net"
 )
 
